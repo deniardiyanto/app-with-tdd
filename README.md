@@ -4,6 +4,4 @@
 
 # Build A Laravel App With TDD
 
-### Birdboard
-### Authors
-[da](https://github.com/deniardiyanto) ![Followers](https://img.shields.io/github/followers/deniardiyanto?style=social)
+
